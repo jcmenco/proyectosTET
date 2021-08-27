@@ -12,7 +12,7 @@ public class cliente {
 
     public static void main(String[] args) {
 
-        String host = "ec2-3-236-190-69.compute-1.amazonaws.com";
+        String host = "3.239.183.224";
         int puerto = 5000;
         DataInputStream entrada;
         DataOutputStream salida;
