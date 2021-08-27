@@ -12,7 +12,7 @@ public class cliente {
 
     public static void main(String[] args) {
 
-        String host = "3.239.183.224";
+        String host = "54.157.121.120";
         int puerto = 5000;
         DataInputStream entrada;
         DataOutputStream salida;
